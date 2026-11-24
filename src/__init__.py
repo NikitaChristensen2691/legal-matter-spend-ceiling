@@ -1,0 +1,1 @@
+"""Legal matter spending example."""
